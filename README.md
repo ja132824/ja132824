@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BEGINNER&fontSize=90)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+need+some+help&size=40&font=selif&color=FFA500C&vcenter=true)](https://git.io/typing-svg)
+
+## About 😄
+- 세법 공부하다 뛰쳐나온 SSAFY 9기 교육생 🏃
+- 알록달록 나도 채우고 싶은 sw 입문자 👶
+
+## Tech Stack 📜
+<img src="https://img.shields.io/badge/Empty-ffa500?style=flat-square&logo=Empty&logoColor=white" />
 
 <!--
 **ja132824/ja132824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
